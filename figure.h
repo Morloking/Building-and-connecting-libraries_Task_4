@@ -20,6 +20,6 @@ namespace my_namespace {
 	protected:
 		Figure(std::string name);
 	private:
-		std::string nameF{ "Фигура" };
+		std::string nameF{ "Р¤РёРіСѓСЂР°" };
 	};
 }
